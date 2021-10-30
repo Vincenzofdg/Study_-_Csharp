@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5FD119E6-8A86-4E8B-BDA1-56FBF219B1B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Revisão__01 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Revisão_02/Program.cs">
+    <Files>
+      <File FileName="Revisão_01/Program.cs" Line="69" Column="43" />
+      <File FileName="Revisão_02/Program.cs" Line="21" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="06_Revisão" expanded="True">
+            <Node name="Revisão_02" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Revisão__02 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
