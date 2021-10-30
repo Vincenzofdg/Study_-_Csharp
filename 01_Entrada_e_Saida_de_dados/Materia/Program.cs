@@ -6,6 +6,15 @@ namespace Materia
     {
         public static void Main(string[] args)
         {
+            double x = 10.35784; 
+            // Caso eu queria limitar o número após as virgula:
+            Console.WriteLine(x.ToString("F2")); // Para 02 números após a virgula
+            Console.WriteLine(x.ToString("F4")); // Para 04 números após a virgula
+            
+            // Nos exemplos anteriores a saida de dados seria com uma virgula (Pois estamos no Brasil)
+            // Caso seja desejado a saída de dados com o ponto utilizar:
+            Console.WriteLine(x.ToString("F2", CultureInfor.InvariantCulture)); // Para dois números após a virgula
+                
             double x, resp;//Declaração de duas varíaveis no mesmo comando (duas variaveis do tipo double).
             Console.Clear(); //Limpar a tela.
             Console.Write("Digite um valo: ");//Exibirá uma mensagem para o usuário.
