@@ -1,4 +1,4 @@
-## Bloco 01: Basico
+## Bloco 01: Fundamentos
 
 **01. Entrada e Saida de Dados;**
 
