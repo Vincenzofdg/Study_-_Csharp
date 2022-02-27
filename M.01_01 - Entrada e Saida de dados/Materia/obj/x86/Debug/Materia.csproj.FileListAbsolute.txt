@@ -1,0 +1,6 @@
+/media/vincenzo/Use Me 👸/GitHub/Csharp/01_Entrada_e_Saida_de_dados/Materia/bin/Debug/Materia.exe
+/media/vincenzo/Use Me 👸/GitHub/Csharp/01_Entrada_e_Saida_de_dados/Materia/bin/Debug/Materia.pdb
+/media/vincenzo/Use Me 👸/GitHub/Csharp/01_Entrada_e_Saida_de_dados/Materia/obj/x86/Debug/Materia.csprojAssemblyReference.cache
+/media/vincenzo/Use Me 👸/GitHub/Csharp/01_Entrada_e_Saida_de_dados/Materia/obj/x86/Debug/Materia.csproj.CoreCompileInputs.cache
+/media/vincenzo/Use Me 👸/GitHub/Csharp/01_Entrada_e_Saida_de_dados/Materia/obj/x86/Debug/Materia.exe
+/media/vincenzo/Use Me 👸/GitHub/Csharp/01_Entrada_e_Saida_de_dados/Materia/obj/x86/Debug/Materia.pdb
